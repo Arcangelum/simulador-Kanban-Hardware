@@ -43,13 +43,4 @@ Quan el hardware estigui complet, executa les tasques de software i test.
 Un cop acabat tot el procés, fes clic a Lliurar / Finalitzar ✅.
 
 
----
 
-### 2. Passos per pujar-ho a GitHub des de la CMD
-
-Obre la Finestra de Comandes (**CMD**) a Windows i segueix aquests passos:
-
-#### Pas A: Navega fins a la carpeta del projecte
-Utilitza la comanda `cd` per anar a la carpeta on tens el fitxer `pc_kanban_v5_2_auto.py` i el `README.md`.
-```cmd
-cd C:\ruta\a\la\teva\carpeta
