@@ -12,8 +12,7 @@ Un simulador interactiu de muntatge de PC estil "Overcooked" basat en metodologi
 ### Pas 1: Clonar o descarregar el repositori
 Obre la teva terminal o CMD i executa:
 ```bash
-git clone [https://github.com/LA-TEVA-UTENTICACIO/Arcangelum.git](https://github.com/LA-TEVA-UTENTICACIO/Arcangelum.git)
-cd Arcangelum
+git clone 
 Pas 2: Executar l'aplicació
 No cal instal·lar cap llibreria externa addicional (pip), ja que utilitza mòduls propis de la llibreria estàndard de Python.
 
