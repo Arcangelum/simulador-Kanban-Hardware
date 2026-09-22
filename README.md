@@ -10,15 +10,20 @@ Un simulador interactiu de muntatge de PC estil "Overcooked" basat en metodologi
 ## 🚀 Com executar el projecte pas a pas
 
 ### Pas 1: Clonar o descarregar el repositori
-Obre la teva terminal o CMD i executa:
-```bash
-git clone 
 Pas 2: Executar l'aplicació
+Cal tenir Python instal·lat. Si no el teniu obriu un terminal en model administrador i instaleu-lo
+Windows:
+winget install Python.Python.3.13
+Linux:
+sudo apt update
+sudo apt install python3 python3-pip
 No cal instal·lar cap llibreria externa addicional (pip), ja que utilitza mòduls propis de la llibreria estàndard de Python.
 
 Per iniciar el joc, executa:
 
 Bash
+Ves a la carpeta on tens el projecte descarregat
+Executa amb un cmd (terminal):
 python pc_kanban_v5_2_auto.py
 (A Linux/macOS pot ser que hagis d'escriure python3 pc_kanban_v5_2_auto.py)
 
